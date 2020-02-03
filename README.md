@@ -16,7 +16,7 @@ O Sistema de Organização e Gerenciamento de Eventos Acadêmicos (SOGEA) é um 
 
 # Ferramentas
 - PHP com framework Codeigniter v3.
-- Rest Controller, lib para criação de WebServices.
+- RestController, lib para criação de WebServices.
 - Guzzle, lib para requisições HTTP.
 - mPDF, lib para gerar PDFs.
 - QrCodeReader, lib para gerar QrCodes.
